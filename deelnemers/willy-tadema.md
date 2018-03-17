@@ -1,5 +1,7 @@
 Naam: **Willy Tadema**   
 
+ ![Willy Tadema](../images/willy-tadema.jpg) 
+
 Organisatie: Provincie Groningen, Kennisnetwerk Data Science Noord-Nederland
 
 Expertise: geografische informatie, open data, basisregistraties, OpenStreetMap, ETL, databases, SQL, R, Python, API's
