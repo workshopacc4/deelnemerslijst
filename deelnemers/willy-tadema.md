@@ -9,3 +9,5 @@ Woonplaats: Groningen
 LinkedIn: https://www.linkedin.com/in/willytadema
 
 Twitter: https://www.twitter.com/friesewoudloper
+    
+[Terug naar de deelnemerslijst](../README.md)
