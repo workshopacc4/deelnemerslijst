@@ -8,8 +8,10 @@ Expertise: geografische informatie, open data, basisregistraties, OpenStreetMap,
 
 Woonplaats: Groningen
 
-LinkedIn: https://www.linkedin.com/in/willytadema
+LinkedIn: https://linkedin.com/in/willytadema
 
-Twitter: https://www.twitter.com/friesewoudloper
+Twitter: https://twitter.com/friesewoudloper
+
+GitHub: https://github.com/friesewoudloper
     
 [Terug naar de deelnemerslijst](../README.md)
